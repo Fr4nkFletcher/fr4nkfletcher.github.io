@@ -39,6 +39,22 @@ Here are some system calls we will use:
 6. **`write()`**: Write data to a file descriptor (such as a socket).
 7. **`close()`**: Close the file descriptor, freeing the associated resources.
 
+## System Call Number Reference
+
+In your assembly code, you directly use system call numbers in the `rax` register to invoke system calls via the `syscall` instruction. Here is a table mapping the system call names to their corresponding numbers on the x86_64 Linux architecture:
+
+| System Call | Number (`rax`) | Description                                         |
+|-------------|----------------|-----------------------------------------------------|
+| `read`      | 0              | Read data from a file descriptor.                   |
+| `write`     | 1              | Write data to a file descriptor.                    |
+| `open`      | 2              | Open a file.                                        |
+| `close`     | 3              | Close a file descriptor.                            |
+| `socket`    | 41             | Create an endpoint for communication.               |
+| `connect`   | 42             | Initiate a connection on a socket.                  |
+| `accept`    | 43             | Accept a connection on a socket.                    |
+| `bind`      | 49             | Bind a socket to an address.                        |
+| `listen`    | 50             | Listen for incoming connections on a socket.        |
+| `exit`      | 60             | Terminate the calling process.                      |
 
 ## Full Code
 
