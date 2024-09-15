@@ -4,8 +4,9 @@ title: "Adding an antenna to the Cheap Yellow Display the easy way"
 date: 2024-09-14
 tags: [cyd,cheap yellow display, antenna, wroom-32u mod,ufl,ipex]
 ---
+![Swapping in the ESP-WROOM-32U](https://w0.peakpx.com/wallpaper/56/444/HD-wallpaper-deer-polygon-art-8k-deer-polygon-artist-artwork-digital-art.jpg)
 
-You can exchange the stock wroom-32 for a wroom-32u with built-in ipex/u.fl connector.
+You can exchange the stock ESP-WROOM-32 for the WROOM-32U with a built-in ipex/u.fl connector.
 
 ## Materials
 
