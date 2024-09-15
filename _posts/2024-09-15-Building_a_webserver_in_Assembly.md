@@ -11,7 +11,7 @@ In this post, we will explore how to build a simple web server in assembly that 
 
 ## Introduction
 
-Building a web server in assembly language is a great way to dive deep into how low-level socket programming works. In this project, we will set up a server that listens for incoming connections, accepts them, and responds with the contents of a file. For this example, we will serve a file called `flag` from the `/home/ffletch/flag` directory.
+Building a web server in assembly language is a great way to dive deep into how low-level socket programming works. In this project, we will set up a server that listens for incoming connections, accepts them, and responds with the contents of a file. For this example, we will serve a file called `flag` from the `/home/ffletch/` directory.
 
 ## Prerequisites
 
