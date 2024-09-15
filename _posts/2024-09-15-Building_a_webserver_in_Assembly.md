@@ -197,4 +197,4 @@ With `strace`, you'll see the system calls related to opening the file, reading 
 
 ## Conclusion
 
-This project walks you through building a simple web server in assembly that listens on port 80, accepts connections, and serves a file in response to HTTP requests. By interacting with the server using `curl` and tracing the system calls with `strace`, you can gain a deep understanding of low-level socket programming and file serving in assembly. We also covered various ways to interact with the server using `curl`, including custom headers and saving output to a file.
+This project walks you through building a simple web server in assembly that listens on port 80, accepts connections, and serves a file in response to HTTP requests. By interacting with the server using `curl` and tracing the system calls with `strace`, you can gain a deep understanding of low-level socket programming and file serving in assembly. We also covered various ways to interact with the server using `curl`, including saving output to a file.
