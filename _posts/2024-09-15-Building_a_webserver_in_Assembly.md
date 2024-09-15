@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Web Server in Assembly: An In-Depth Exploration"
 date: 2024-09-15
-tags: [assembly, web server, socket programming, file serving]
+tags: [assembly, assembly webserver, socket programming, file serving]
 ---
 
 ![Building a Web Server in Assembly: An In-Depth Exploration](https://cdn.pixabay.com/photo/2024/05/26/12/03/ai-generated-8788659_1280.jpg)
@@ -45,16 +45,16 @@ In your assembly code, you directly use system call numbers in the `rax` registe
 
 | System Call | Number (`rax`) | Description                                         |
 |-------------|----------------|-----------------------------------------------------|
-| `read`      | 0              | Read data from a file descriptor.                   |
-| `write`     | 1              | Write data to a file descriptor.                    |
-| `open`      | 2              | Open a file.                                        |
-| `close`     | 3              | Close a file descriptor.                            |
 | `socket`    | 41             | Create an endpoint for communication.               |
-| `connect`   | 42             | Initiate a connection on a socket.                  |
-| `accept`    | 43             | Accept a connection on a socket.                    |
 | `bind`      | 49             | Bind a socket to an address.                        |
 | `listen`    | 50             | Listen for incoming connections on a socket.        |
+| `accept`    | 43             | Accept a connection on a socket.                    |
+| `read`      | 0              | Read data from a file descriptor.                   |
+| `write`     | 1              | Write data to a file descriptor.                    |
+| `close`     | 3              | Close a file descriptor.                            |
 | `exit`      | 60             | Terminate the calling process.                      |
+
+For a more complete list of Linux system calls, you can check the [full list here](https://lxr.linux.no/linux+v3.2/arch/x86/include/asm/unistd_64.h).
 
 ## Full Code
 
