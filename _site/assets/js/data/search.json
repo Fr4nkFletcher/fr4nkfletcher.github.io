@@ -1,0 +1,38 @@
+[
+  
+  {
+    "title": "Enhancing ESP Board Reception without an External Antenna Connector",
+    "url": "/posts/ESP32_ANTENNA_MOD/",
+    "categories": "",
+    "tags": "esp, rx/tx, antenna, mod, esp32",
+    "date": "2024-09-14 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "If you’ve purchased an ESP board that lacks a connector for an external antenna and you’re experiencing the limits of reception, there’s a solution that doesn’t involve the complex task of moving a...",
+    "content": "If you’ve purchased an ESP board that lacks a connector for an external antenna and you’re experiencing the limits of reception, there’s a solution that doesn’t involve the complex task of moving a tiny 0603 sized resistor to utilize the external antenna socket on some boards.This workaround is relatively simple and the required parts are inexpensive, often found on platforms like eBay or AliExpress for just a few dollars.Required Components  ESP/CYD of your choosing  UFL to reverse polarity SMA lead with UFL connector removed and 5mm of shield and center exposed and tinned with solder  Reverse polarity SMA 2.4GHz antenna    Step-by-Step Guide        Prepare Your Workspace and Tools: Make sure you have a steady hand and the right tools. A fine soldering tip and some magnification can help.        Locate the Antenna Connection Points: Identify the points on your ESP board where the antenna connects. This will be your working area.        Attach the Antenna: Carefully solder the antenna’s lead to the designated point on the ESP board. Ensure a solid connection without bridging adjacent contacts.        Test the Connection: Before proceeding further, it’s crucial to test the connection. Use a multimeter to ensure there’s no short circuit.        Seal and Protect: Once you’ve confirmed the functionality, consider using some non-conductive lacquer to protect the exposed soldered area.    Final Testing: With the external antenna now attached, test the ESP board’s reception in its intended environment. You should notice a significant improvement in signal strength and stability.ConclusionBy following these steps, you can significantly improve the reach of your Cheap-Yellow-Display. For more infomation/examples, click here."
+  },
+  
+  {
+    "title": "Adding an antenna to the Cheap Yellow Display the easy way",
+    "url": "/posts/CYD-WROOM-32U-SWAP/",
+    "categories": "",
+    "tags": "cyd, cheap yellow display, antenna, wroom-32u mod, ufl, ipex",
+    "date": "2024-09-14 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "You can exchange the stock wroom-32 for a wroom-32u with built-in ipex/u.fl connector.Materials  WROOM-32U Module          Available on AliExpress or Amazon        SMA Antenna          Suggested: A...",
+    "content": "You can exchange the stock wroom-32 for a wroom-32u with built-in ipex/u.fl connector.Materials  WROOM-32U Module          Available on AliExpress or Amazon        SMA Antenna          Suggested: Amazon Link        UFL to SMA Adapter          Available on Amazon        Flux          I like Amtech        Solder Paste          I use Mechanic        Hot Air Station    Procedure  Step 1: Preparation  Setup: Clean your workspace. Secure the board to prevent movement during the process.  Flux: Liberally apply flux around the ESP-WROOM module. Struggling? Use more flux.Step 2: Module Removal      Heat Application: Set the hot air station to approximately 350-400°C. Apply heat evenly across the module to avoid damage to adjacent components.            Remove the Module: Once the solder is molten, carefully lift the ESP-WROOM module using tweezers. If it resists, apply additional heat as needed.            Clean the Pads: Add solder to the esp pads on the CYD, use solder braid to remove it, clean with IPA, and then lay down solder paste.      Step 3: Install the WROOM-32U  Position the Module: If you don’t use solder paste simply ensure correct alignment and solder a pin at each corner.  Hot Air: If you chose the hot air route, apply heat evenly until the paste flows. After the initial set, apply more heat and give the module a tap with tweezers ever so slightly for to it seat fully.  Inspect the Joints: Thoroughly inspect the solder joints for any defects such as cold joints or bridges. A microscope is invaluable for this and many other challenges you’ll face.Step 4: Reflash Marauder  CYM WebFlasher:https://fr4nkfletcher.github.io/Adafruit_WebSerial_ESPTool/Step 5: Attach the Antenna  Select an Antenna: Choose an appropriate antenna for your application. Recommended options are available on Amazon.  Connect the Antenna: Attach the UFL to SMA adapter to the WROOM-32U, then connect the SMA antenna.      Test the Board: Power on the board and have fun. Don’t be a dick!      "
+  }
+  
+]
+
