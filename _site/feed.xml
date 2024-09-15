@@ -1,0 +1,100 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Fr4nkFletcher</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-09-14T22:05:20-05:00</updated>
+  <author>
+    <name>Frank Fletcher</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Frank Fletcher </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Enhancing ESP Board Reception without an External Antenna Connector</title>
+    <link href="http://localhost:4000/posts/ESP32_ANTENNA_MOD/" rel="alternate" type="text/html" title="Enhancing ESP Board Reception without an External Antenna Connector" />
+    <published>2024-09-14T00:00:00-05:00</published>
+  
+    <updated>2024-09-14T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/ESP32_ANTENNA_MOD/</id>
+    <content src="http://localhost:4000/posts/ESP32_ANTENNA_MOD/" />
+    <author>
+      <name>Frank Fletcher</name>
+    </author>
+
+  
+    
+  
+
+  <summary>If you’ve purchased an ESP board that lacks a connector for an external antenna and you’re experiencing the limits of reception, there’s a solution that doesn’t involve the complex task of moving a tiny 0603 sized resistor to utilize the external antenna socket on some boards.
+
+This workaround is relatively simple and the required parts are inexpensive, often found on platforms like eBay or Ali...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Adding an antenna to the Cheap Yellow Display the easy way</title>
+    <link href="http://localhost:4000/posts/CYD-WROOM-32U-SWAP/" rel="alternate" type="text/html" title="Adding an antenna to the Cheap Yellow Display the easy way" />
+    <published>2024-09-14T00:00:00-05:00</published>
+  
+    <updated>2024-09-14T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/CYD-WROOM-32U-SWAP/</id>
+    <content src="http://localhost:4000/posts/CYD-WROOM-32U-SWAP/" />
+    <author>
+      <name>Frank Fletcher</name>
+    </author>
+
+  
+    
+  
+
+  <summary>You can exchange the stock wroom-32 for a wroom-32u with built-in ipex/u.fl connector.
+
+Materials
+
+
+  WROOM-32U Module
+    
+      Available on AliExpress or Amazon
+    
+  
+  SMA Antenna
+    
+      Suggested: Amazon Link
+    
+  
+  UFL to SMA Adapter
+    
+      Available on Amazon
+    
+  
+  Flux
+    
+      I like Amtech
+    
+  
+  Solder Paste
+    
+      I use Mechanic
+    
+  
+  Hot Air Station
+  ...</summary>
+
+  </entry>
+
+</feed>
+
+
