@@ -16,10 +16,10 @@ timezone:
 
 title: Fr4nkFletcher # the main title
 
-tagline: Sharing as I go # it will display as the subtitle
+tagline: Just doing my best # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A minimal, security/hardware-focused blog by Fr4nkFletcher.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
