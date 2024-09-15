@@ -26,6 +26,19 @@ Ensure you have created a `flag` file at `/home/ffletch/flag` or wherever for th
 ```bash
 echo "This is the flag file content!" > /home/ffletch/flag
 ```
+## Understanding System Calls
+
+In Linux, system calls are how user-space programs interact with the kernel. In assembly, system calls are made by setting the appropriate system call number in the `rax` register and executing the `syscall` instruction. Arguments are passed through registers such as `rdi`, `rsi`, and `rdx`.
+
+Here are some system calls we will use:
+1. **`socket()`**: Create an endpoint for communication.
+2. **`bind()`**: Associate the socket with a local address (IP/port).
+3. **`listen()`**: Mark the socket to accept incoming connections.
+4. **`accept()`**: Extract the first connection on the queue of pending connections.
+5. **`read()`**: Read data from a file descriptor (like a socket).
+6. **`write()`**: Write data to a file descriptor (such as a socket).
+7. **`close()`**: Close the file descriptor, freeing the associated resources.
+
 
 ## Full Code
 
