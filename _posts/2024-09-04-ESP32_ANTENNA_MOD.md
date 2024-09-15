@@ -5,6 +5,8 @@ date: 2024-09-14
 tags: [esp, rx/tx, antenna, mod, esp32]
 ---
 
+![Enhancing ESP Board Reception](https://cdn.pixabay.com/photo/2024/05/26/12/03/ai-generated-8788659_1280.jpg)
+
 If you've purchased an ESP board that lacks a connector for an external antenna and you're experiencing the limits of reception, there's a solution that doesn't involve the complex task of moving a tiny 0603 sized resistor to utilize the external antenna socket on some boards.
 
 This workaround is relatively simple and the required parts are inexpensive, often found on platforms like eBay or AliExpress for just a few dollars.
