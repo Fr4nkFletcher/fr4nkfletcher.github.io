@@ -45,7 +45,7 @@ You can exchange the stock ESP-WROOM-32 for the WROOM-32U with a built-in ipex/u
 ### Step 3: Install the WROOM-32U
 
 1. **Position the Module**: If you don't use solder paste simply ensure correct alignment and solder a pin at each corner. 
-2. **Hot Air**: If you chose the hot air route, apply heat evenly until the paste flows. After the initial set, apply more heat and give the module a tap with tweezers ever so slightly for to it seat fully.
+2. **Hot Air**: If you chose the hot air route, apply heat evenly until the paste flows. After the initial set, apply more heat and give the module a tap with tweezers ever so slightly for it to seat fully.
 3. **Inspect the Joints**: Thoroughly inspect the solder joints for any defects such as cold joints or bridges. A microscope is invaluable for this and many other challenges you'll face.
 
   ![New module](/assets/img/11.jpg)
