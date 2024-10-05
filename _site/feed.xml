@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
   <title>Fr4nkFletcher</title>
-  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-09-14T22:05:20-05:00</updated>
+  <subtitle>A minimal, security/hardware-focused blog by Fr4nkFletcher.</subtitle>
+  <updated>2024-10-04T21:49:37-05:00</updated>
   <author>
     <name>Frank Fletcher</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,37 @@
 
   
   <entry>
+    <title>Building a Web Server in Assembly: An In-Depth Exploration</title>
+    <link href="http://localhost:4000/posts/Building_a_webserver_in_Assembly/" rel="alternate" type="text/html" title="Building a Web Server in Assembly: An In-Depth Exploration" />
+    <published>2024-09-15T00:00:00-05:00</published>
+  
+    <updated>2024-09-15T15:17:51-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Building_a_webserver_in_Assembly/</id>
+    <content src="http://localhost:4000/posts/Building_a_webserver_in_Assembly/" />
+    <author>
+      <name>Frank Fletcher</name>
+    </author>
+
+  
+    
+  
+
+  <summary>In this post, we will explore how to build a simple web server in assembly that can handle HTTP requests and serve a file in Linux.
+
+Introduction
+
+Building a web server in assembly language is a great way to dive deep into how low-level socket programming works. In this project, we will set up a server that listens for incoming connections, accepts them, and responds with the contents of a file...</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Enhancing ESP Board Reception without an External Antenna Connector</title>
     <link href="http://localhost:4000/posts/ESP32_ANTENNA_MOD/" rel="alternate" type="text/html" title="Enhancing ESP Board Reception without an External Antenna Connector" />
     <published>2024-09-14T00:00:00-05:00</published>
   
-    <updated>2024-09-14T00:00:00-05:00</updated>
+    <updated>2024-09-15T03:16:45-05:00</updated>
   
     <id>http://localhost:4000/posts/ESP32_ANTENNA_MOD/</id>
     <content src="http://localhost:4000/posts/ESP32_ANTENNA_MOD/" />
@@ -48,7 +74,7 @@ This workaround is relatively simple and the required parts are inexpensive, oft
     <link href="http://localhost:4000/posts/CYD-WROOM-32U-SWAP/" rel="alternate" type="text/html" title="Adding an antenna to the Cheap Yellow Display the easy way" />
     <published>2024-09-14T00:00:00-05:00</published>
   
-    <updated>2024-09-14T00:00:00-05:00</updated>
+    <updated>2024-09-16T18:25:54-05:00</updated>
   
     <id>http://localhost:4000/posts/CYD-WROOM-32U-SWAP/</id>
     <content src="http://localhost:4000/posts/CYD-WROOM-32U-SWAP/" />
@@ -60,7 +86,7 @@ This workaround is relatively simple and the required parts are inexpensive, oft
     
   
 
-  <summary>You can exchange the stock wroom-32 for a wroom-32u with built-in ipex/u.fl connector.
+  <summary>You can exchange the stock ESP-WROOM-32 for the WROOM-32U with a built-in ipex/u.fl connector.
 
 Materials
 
@@ -90,8 +116,7 @@ Materials
       I use Mechanic
     
   
-  Hot Air Station
-  ...</summary>
+  Hot Air St...</summary>
 
   </entry>
 
