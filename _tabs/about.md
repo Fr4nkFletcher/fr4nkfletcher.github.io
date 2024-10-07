@@ -33,7 +33,7 @@ I'm Frank. I tinker with stuff, love RE, and have an unhealthy obsession with so
  - [Adafruit Python on Microcontrollers Newsletter - 1/2/24](https://blog.adafruit.com/2024/01/02/icymi-python-on-microcontrollers-newsletter-micropython-v1-22-0-is-out-freertos-adds-multiprocessing-and-much-more-circuitpython-python-micropython-icymi-raspberry_pi/#:~:text=Using%20an%20Adafruit%20ItsyBitsy%20M4%20with%20CircuitPython%20and%20Microsoft's%20MakeCode)
   - [HackerBoxes Penetration Test Toolkit](https://hackerboxes.com/collections/workshops/products/penetration-test-toolkit#:~:text=CYD%20Marauder)
   - [0wulf's Blog - Has hacking become too accesible?](https://0wulf.github.io/blog/esp32marauder.html)
-  - [GitHub Top Charts #57 - New Software C](https://github.com/GrowingGit/GitHub-English-Top-Charts/blob/main/content/charts/new_repo/software/C.md#:~:text=Fr4nkFletcher)
+  - [GitHub Top Charts #55 - New Software C](https://github.com/GrowingGit/GitHub-English-Top-Charts/blob/main/content/charts/new_repo/software/C.md#:~:text=Fr4nkFletcher)
   - [Judz.net - Cheap Yellow Marauder](https://judz.net/wifi_security/2024/04/16/CheapYellowDisplay.html)
   - [Youtube - Talking Sasquach - Don't be Fooled!! This Cheap Yellow Display Can Do a LOT!!](https://www.youtube.com/watch?v=PsqMCoCTgTg)
   - [Youtube - Alto Evolucionario - Attacking Wi-Fi Networks with ESP32 Marauder v1.0.0 Sunton ESP32-2432S028R CYD Cheap Yellow Display](https://www.youtube.com/watch?v=v-NNOx5yRyc)
