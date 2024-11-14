@@ -36,9 +36,10 @@ I'm Frank. I tinker with stuff, love RE, and have an unhealthy obsession with so
   - [Judz.net - Cheap Yellow Marauder](https://judz.net/wifi_security/2024/04/16/CheapYellowDisplay.html)
   - [Deca's Foxhole - WiFi Pentesting In Your Pocket ESP32 Marauder](https://decasfoxhole.wordpress.com/2024/04/14/wifi-pentesting-in-your-pocket-esp32-marauder/)
   - [Youtube - Talking Sasquach - Don't be Fooled!! This Cheap Yellow Display Can Do a LOT!!](https://www.youtube.com/watch?v=PsqMCoCTgTg)
-  - [Youtube - Alto Evolucionario - Attacking Wi-Fi Networks with ESP32 Marauder v1.0.0 Sunton ESP32-2432S028R](https://www.youtube.com/watch?v=v-NNOx5yRyc)
+  - [Youtube - Alto Evolucionario - Attacking Wi-Fi Networks with ESP32 Marauder v1.0.0 ESP32-2432S028R](https://www.youtube.com/watch?v=v-NNOx5yRyc)
   - [Youtube - Jamie's Hack Shack - Hackerbox 0103 - Homebrew](https://www.youtube.com/watch?v=K2wxa3htl7M&t=849s)
   - [Youtube - HackedExistence - Cheap Yellow Marauder - ESP32 CYD Marauder build](https://www.youtube.com/watch?v=0xVrZQx4MY4&t=542s)
+  -  [Youtube - Yellow Purple - Install Marauder via Web Flasher on ESP32 Arduino LVGL 2.8" Smart Display](https://www.youtube.com/watch?v=yKMXvlgTzNM)
 ## What else?
 
 I'm always up for a good tech chat or collaboration. If you've got ideas or just want to talk shop, hit me up! Email me or DM on Twitter if you need me right away.
