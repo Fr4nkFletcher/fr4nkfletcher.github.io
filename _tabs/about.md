@@ -39,10 +39,11 @@ I'm Frank. I tinker with stuff, love RE, and have an unhealthy obsession with so
   - [Youtube - Alto Evolucionario - Attacking Wi-Fi Networks with ESP32 Marauder v1.0.0 ESP32-2432S028R](https://www.youtube.com/watch?v=v-NNOx5yRyc)
   - [Youtube - Jamie's Hack Shack - Hackerbox 0103 - Homebrew](https://www.youtube.com/watch?v=K2wxa3htl7M&t=849s)
   - [Youtube - HackedExistence - Cheap Yellow Marauder - ESP32 CYD Marauder build](https://www.youtube.com/watch?v=0xVrZQx4MY4&t=542s)
-  -  [Youtube - Yellow Purple - Install Marauder via Web Flasher on ESP32 Arduino LVGL 2.8" Smart Display](https://www.youtube.com/watch?v=yKMXvlgTzNM)
+  - [Youtube - Yellow Purple - Install Marauder via Web Flasher on ESP32 Arduino LVGL 2.8" Smart Display](https://www.youtube.com/watch?v=yKMXvlgTzNM)
+  - [Youtube - Hedge Tech - How To Build An ESP32 Marauder - With Battery - No Soldering Required](https://www.youtube.com/watch?v=bHivs2c_o7I)
 ## What else?
 
-I'm always up for a good tech chat or collaboration. If you've got ideas or just want to talk shop, hit me up! Email me or DM on Twitter if you need me right away.
+If you've got ideas or need something right away, contact me on Twitter.
 
 [![twitter](https://img.shields.io/badge/follow-Fr4nkFletcher-blue?style=flat&logo=Twitter)](https://twitter.com/Fr4nkFletcher)
 
