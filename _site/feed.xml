@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>http://https://fr4nkfletcher.github.io/</id>
   <title>Fr4nkFletcher</title>
   <subtitle>A minimal, security/hardware-focused blog by Fr4nkFletcher.</subtitle>
   <updated>2024-12-30T15:01:27-06:00</updated>
   <author>
     <name>Frank Fletcher</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>http://https://fr4nkfletcher.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://https://fr4nkfletcher.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="http://https://fr4nkfletcher.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 Frank Fletcher </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>And just like that, 2024 was gone too</title>
-    <link href="http://localhost:4000/posts/EOY/" rel="alternate" type="text/html" title="And just like that, 2024 was gone too" />
+    <link href="http://https://fr4nkfletcher.github.io/posts/EOY/" rel="alternate" type="text/html" title="And just like that, 2024 was gone too" />
     <published>2024-12-30T00:00:00-06:00</published>
   
     <updated>2024-12-30T00:00:00-06:00</updated>
   
-    <id>http://localhost:4000/posts/EOY/</id>
-    <content src="http://localhost:4000/posts/EOY/" />
+    <id>http://https://fr4nkfletcher.github.io/posts/EOY/</id>
+    <content src="http://https://fr4nkfletcher.github.io/posts/EOY/" />
     <author>
       <name>Frank Fletcher</name>
     </author>
@@ -45,13 +45,13 @@ This year brought some unexpected recognition for my projects. The “Cheap Yell
   
   <entry>
     <title>Building a Web Server in Assembly: An In-Depth Exploration</title>
-    <link href="http://localhost:4000/posts/Building_a_webserver_in_Assembly/" rel="alternate" type="text/html" title="Building a Web Server in Assembly: An In-Depth Exploration" />
+    <link href="http://https://fr4nkfletcher.github.io/posts/Building_a_webserver_in_Assembly/" rel="alternate" type="text/html" title="Building a Web Server in Assembly: An In-Depth Exploration" />
     <published>2024-09-15T00:00:00-05:00</published>
   
     <updated>2024-09-15T15:17:51-05:00</updated>
   
-    <id>http://localhost:4000/posts/Building_a_webserver_in_Assembly/</id>
-    <content src="http://localhost:4000/posts/Building_a_webserver_in_Assembly/" />
+    <id>http://https://fr4nkfletcher.github.io/posts/Building_a_webserver_in_Assembly/</id>
+    <content src="http://https://fr4nkfletcher.github.io/posts/Building_a_webserver_in_Assembly/" />
     <author>
       <name>Frank Fletcher</name>
     </author>
@@ -71,13 +71,13 @@ Building a web server in assembly language is a great way to dive deep into how 
   
   <entry>
     <title>Enhancing ESP Board Reception without an External Antenna Connector</title>
-    <link href="http://localhost:4000/posts/ESP32_ANTENNA_MOD/" rel="alternate" type="text/html" title="Enhancing ESP Board Reception without an External Antenna Connector" />
+    <link href="http://https://fr4nkfletcher.github.io/posts/ESP32_ANTENNA_MOD/" rel="alternate" type="text/html" title="Enhancing ESP Board Reception without an External Antenna Connector" />
     <published>2024-09-14T00:00:00-05:00</published>
   
     <updated>2024-09-15T03:16:45-05:00</updated>
   
-    <id>http://localhost:4000/posts/ESP32_ANTENNA_MOD/</id>
-    <content src="http://localhost:4000/posts/ESP32_ANTENNA_MOD/" />
+    <id>http://https://fr4nkfletcher.github.io/posts/ESP32_ANTENNA_MOD/</id>
+    <content src="http://https://fr4nkfletcher.github.io/posts/ESP32_ANTENNA_MOD/" />
     <author>
       <name>Frank Fletcher</name>
     </author>
@@ -95,13 +95,13 @@ This workaround is relatively simple and the required parts are inexpensive, oft
   
   <entry>
     <title>Adding an antenna to the Cheap Yellow Display the easy way</title>
-    <link href="http://localhost:4000/posts/CYD-WROOM-32U-SWAP/" rel="alternate" type="text/html" title="Adding an antenna to the Cheap Yellow Display the easy way" />
+    <link href="http://https://fr4nkfletcher.github.io/posts/CYD-WROOM-32U-SWAP/" rel="alternate" type="text/html" title="Adding an antenna to the Cheap Yellow Display the easy way" />
     <published>2024-09-14T00:00:00-05:00</published>
   
     <updated>2024-09-16T18:25:54-05:00</updated>
   
-    <id>http://localhost:4000/posts/CYD-WROOM-32U-SWAP/</id>
-    <content src="http://localhost:4000/posts/CYD-WROOM-32U-SWAP/" />
+    <id>http://https://fr4nkfletcher.github.io/posts/CYD-WROOM-32U-SWAP/</id>
+    <content src="http://https://fr4nkfletcher.github.io/posts/CYD-WROOM-32U-SWAP/" />
     <author>
       <name>Frank Fletcher</name>
     </author>
