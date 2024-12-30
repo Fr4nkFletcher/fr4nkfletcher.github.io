@@ -5,8 +5,6 @@ date: 2024-09-15
 tags: [assembly, assembly webserver, socket programming, file serving]
 ---
 
-![Building a Web Server in Assembly: An In-Depth Exploration](https://cdn.pixabay.com/photo/2024/05/26/12/03/ai-generated-8788659_1280.jpg)
-
 In this post, we will explore how to build a simple web server in assembly that can handle HTTP requests and serve a file in Linux.
 
 ## Introduction
