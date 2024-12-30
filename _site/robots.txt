@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: http://https://fr4nkfletcher.github.io/sitemap.xml
+Sitemap: https://fr4nkfletcher.github.io/sitemap.xml
