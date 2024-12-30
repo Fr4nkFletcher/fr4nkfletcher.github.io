@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Fr4nkFletcher</title>
   <subtitle>A minimal, security/hardware-focused blog by Fr4nkFletcher.</subtitle>
-  <updated>2024-10-04T23:23:17-05:00</updated>
+  <updated>2024-12-30T14:48:42-06:00</updated>
   <author>
     <name>Frank Fletcher</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>And just like that, 2024 was gone too</title>
+    <link href="http://localhost:4000/posts/EOY/" rel="alternate" type="text/html" title="And just like that, 2024 was gone too" />
+    <published>2024-12-30T00:00:00-06:00</published>
+  
+    <updated>2024-12-30T00:00:00-06:00</updated>
+  
+    <id>http://localhost:4000/posts/EOY/</id>
+    <content src="http://localhost:4000/posts/EOY/" />
+    <author>
+      <name>Frank Fletcher</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Goodbye 2024
+
+This year brought some unexpected recognition for my projects. The “Cheap Yellow Display” project caught attention in places I never imagined—Adafruit’s blog, their Python on Microcontrollers Newsletter, and even across several YouTube channels. Seeing it picked up by HackerBoxes as part of their Penetration Test Toolkit was a personal highlight. It’s surreal to think something th...</summary>
+
+  </entry>
 
   
   <entry>
