@@ -27,6 +27,7 @@ I'm Frank. I tinker with stuff, love RE, and have an unhealthy obsession with so
 
 ## Mentions
 
+ - [Adafruit Blog - 1/07/25](https://blog.adafruit.com/2025/01/07/the-latest-esp32-marauder-firmware-for-the-cheap-yellow-display/)
  - [Adafruit Blog - 9/10/24](https://blog.adafruit.com/2024/09/10/cheap-yellow-display-web-flasher/)
  - [Adafruit Python on Microcontrollers Newsletter - 8/6/24](https://blog.adafruit.com/2024/08/06/icymi-python-on-microcontrollers-newsletter-circuitpython-day-2024-a-micropython-computer-and-much-more-circuitpython-python-micropython-icymi-raspberry_pi/#:~:text=An%20Adafruit%20Matrix%20Portal%20weather%20station)
  - [Adafruit Python on Microcontrollers Newsletter - 7/30/24](https://blog.adafruit.com/2024/07/30/icymi-python-on-microcontrollers-newsletter-arduino-turns-to-zephyr-projects-galore-and-more-circuitpython-python-micropython-icymi-raspberry_pi/#:~:text=An%20Adafruit%20MatrixPortal%20M4%20project%20to%20display%20scrolling%20text%20on%20an%20LED%20matrix%20with%20messages%20fetched%20from%20a%20Telegram%20bot)
