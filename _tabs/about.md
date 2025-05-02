@@ -27,6 +27,8 @@ I'm Frank. I tinker with stuff, love RE, and have an unhealthy obsession with so
 
 ## Mentions
 
+ 
+ - [HackerBoxes 0114](https://www.instructables.com/HackerBox-0114-WOPR/)
  - [Adafruit Python on Microcontrollers Newsletter - 3/15/25](https://www.adafruitdaily.com/2025/03/10/python-on-microcontrollers-newsletter-12000-subscribers-zephyr-micropython-on-flipper-zero-and-more-circuitpython-python-micropython-thepsf-raspberry_pi/#:~:text=Fr4nkFletcher)
  - [Adafruit Blog - 1/07/25](https://blog.adafruit.com/2025/01/07/the-latest-esp32-marauder-firmware-for-the-cheap-yellow-display/)
  - [Adafruit Blog - 9/10/24](https://blog.adafruit.com/2024/09/10/cheap-yellow-display-web-flasher/)
